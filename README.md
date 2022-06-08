@@ -2,4 +2,4 @@
 
 This is the conflict file
 
-Create for the purpose of this demo
+Create for the purpose of this world
